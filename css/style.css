@@ -1,0 +1,139 @@
+.header .wrapper
+{
+	width:70%;
+	margin:auto;	
+}
+.welcome .wrapper
+{
+	width:70%;
+	margin:auto;
+}
+.about .wrapper
+{
+	width:70%;
+	margin:auto;
+}
+.service .wrapper
+{
+	width:70%;
+	margin:auto;
+}
+.contact .wrapper
+{
+	width:70%;
+	margin:auto;	
+}
+.copyright .wrapper
+{
+	width:70%;
+	margin:auto;	
+}
+.header
+{
+    background-color:lightgreen;
+    height:100px;	
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-between;
+} 
+.header .header-fc .home
+{
+    margin-top:20px;
+	background-color:white;
+	height:60px;	
+    width:20%;
+}
+.header .header-fc .navi
+{
+	margin-top:20px;
+	background-color:white;
+	height:60px;	
+    width:40%;
+}
+.welcome
+{
+    background-color:lightsalmon;
+	height:340px;
+}
+.welcome .welcome-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.welcome .welcome-fc .linea
+{
+    margin-top:80px;
+    background-color:white;
+    height:180px;
+    width:50%;	  
+}
+.about  
+{
+	background-color:cyan;
+    height:520px;
+}
+ .about .about-fc
+ {
+	display:flex;
+	justify-content:center; 
+ }
+.about .about-fc .texta
+{
+    margin-top:100px;
+    background-color:white;
+	height:320px;
+	width:50%;
+}
+.service
+{
+	background-color:gray;
+	height:438px;
+}
+.service .service-fc
+{
+	display:flex;
+	justify-content:center; 
+}
+.service .service-fc .paraa
+{
+	margin-top:100px;
+	background-color:white;
+	height:220px;
+	width:50%;
+}
+.contact
+{
+	background-color:purple;
+	height:442px;
+}
+.contact .contact-fc
+{
+	display:flex;
+	justify-content:center; 
+}
+.contact .contact-fc .newa
+{
+	margin-top:100px;
+	background-color:white;
+	height:242px;
+	width:50%;
+}
+.copyright
+{
+	background-color:lightcyan;
+	height:105px;
+}
+.copyright .copyright-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.copyright .copyright-fc .olda
+{
+	margin-top:30px;
+	background-color:pink;
+	height:62px;
+	width:10%;
+}
